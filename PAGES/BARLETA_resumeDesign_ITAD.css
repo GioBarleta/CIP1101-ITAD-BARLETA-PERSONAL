@@ -1,0 +1,48 @@
+body{
+    text-align: justify;
+    font-family: 'Courier New', Courier, monospace;
+    background-color:#F5F5DC  ;
+    }
+
+h3{
+font-family: "Arial";
+font-size: 1.30em;
+font-weight: bold;
+}
+h1{
+   text-align: center;
+font-family: Georgia, 'Times New Roman', Times, serif;
+color:maroon;
+text-transform: uppercase;
+}
+p{
+    font-style: italic;
+    text-align: center;
+    color: black;
+    font-family:'Courier New', Courier, monospace;
+}
+h2.ps{
+            text-align: left;
+            font-family: Rockwell,'Bookman old style',serif;
+            font-style: italic;
+            font-size: 2em;
+            background-color:#8b0000;
+            color:#FFFFF0  ;
+            text-transform: uppercase;
+            text-shadow: 5px 5px 6px black;
+}
+p.ps{
+    text-align: justify;
+    color: black;
+    font-family:'Courier New', Courier, monospace;
+}
+pre{
+    text-align: left;
+    font-family: 'Courier New', Courier, monospace;
+}
+img{
+    height: 150px;
+    width: 150px ;
+   float: left;
+   margin-left: 50px;
+}
